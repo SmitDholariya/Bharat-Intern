@@ -1,0 +1,53 @@
+body{
+    background-image: url('image/back_image.jpg');  
+    background-size:cover;
+}
+.container{
+    margin: 0 auto;
+    height: 400px;
+    margin-top: 220px;
+}
+.heading{
+    margin-left: 850px;
+    margin-top: 100px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+.input{
+    margin-left: 900px;
+    padding: 5px;
+}
+.celsius{
+    width: 250px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.fahrenheit{
+    padding: 5px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.button{
+    margin-top: 20px;
+    width: 263px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;   
+}
+.button1{
+    margin-top: 20px;
+    width: 263px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(217, 173, 41);
+}
+button1:hover{
+    cursor: pointer;
+}
